@@ -43,7 +43,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/SecuredByConnor/port-scanner
 cd port_scanner
-
+```
+---
 
 ## Disclaimer
 This tool is developed strictly for **educational and ethical purposes**.  
